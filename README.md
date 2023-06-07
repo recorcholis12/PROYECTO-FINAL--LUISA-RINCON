@@ -9,7 +9,7 @@ PROYECTO FINAL PROGRAMACION 2 TERCER SEMESTRE
 ### PROGRAMA PARA ADMINISTRAR LOS DELITOS INFORMÁTICOS OCURRIDOS EN BOGOTÁ Y LOS AGENTES DE LA DIVISION:disguised_face:
 -----
 
-***El programa esta en lenguaje java y consiste  en que se pueda agregar , buscar, eliminar, modificar y listar un usuario***
+***El programa esta en lenguaje java el lo que concierne a  la logica del proyecto y en HTML, CSS Y JavaScript para crar la ventanan o la pagina web por la cual va a interactuar el usuario**
 
 ![](https://media0.giphy.com/media/eurFuCy8b1t6mwYtfo/giphy.gif?cid=790b7611e2c5e4f4ab1f1d0c9fba2852897fb7f82d6c6d84&rid=giphy.gif&ct=g)
 
