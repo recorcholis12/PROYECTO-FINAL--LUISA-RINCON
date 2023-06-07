@@ -2,7 +2,7 @@
 PROYECTO FINAL PROGRAMACION 2 TERCER SEMESTRE 
 
 
-![holi](https://github.com/recorcholis12/trabajo-en-clase--proyecto/blob/main/escudo.jpeg
+![holi](https://github.com/recorcholis12/PROYECTO-FINAL--LUISA-RINCON/blob/main/escudo.jpeg)
 
 #  **PRESENTACION DE MI PROYECTO**
 
